@@ -20,13 +20,16 @@ font-size: 40px;
 }
 #card1{
 	margin: 20px;
+	background-color: white;
+	
 }
 .main{
   display: flex;
   flex-direction: row;
   margin: 10px;
-  		
-	
+}
+#card2{
+column-span: 4;
 }
 
 
